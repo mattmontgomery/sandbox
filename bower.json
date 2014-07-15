@@ -1,0 +1,18 @@
+{
+    "name": "Sandbox",
+    "author": "https://github.com/mattmontgomery/sandbox.git",
+    "dependencies": {
+        "jquery": "~2",
+        "underscore": "",
+        "backbone": "",
+        "moment": "~2",
+        "requirejs": "~2",
+        "tile": "git://github.com/deseretdigital/tile.git",
+        "modernizr": "",
+        "bootstrap": "",
+        "impress.js": "",
+        "normalize.css": "",
+        "q": "",
+        "bluebird": ""
+    }
+}
