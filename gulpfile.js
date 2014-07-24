@@ -1,24 +1,26 @@
 var gulp = require('gulp'),
     bower = require('gulp-bower'),
     sass = require('gulp-sass'),
-    shell = require('gulp-shell');
+    shell = require('gulp-shell'),
+    path = {};
+path.styles = {};
+path.styles.src = ['./scss/*.scss','./scss/*/*.scss'];
 
 gulp.task('bower', function() {
-    return bower()
-        .pipe(gulp.dest('public/vendor/'))
+    return bower().pipe(gulp.dest('public/vendor/'))
 });
 
 gulp.task('sass', function () {
-    gulp.src('./scss/*.scss')
+    gulp.src(path.styles.src)
         .pipe(sass({
-            includePaths: ['./scss','public/vendor/foundation/scss'],
+            includePaths: ['./scss'],
             errLogToConsole: true
         }))
         .pipe(gulp.dest('./public/stylesheets'));
 });
 
 gulp.task('watch', function(event) {
-    gulp.watch('./scss/*.scss', ['sass']);
+    gulp.watch(path.styles.src, ['sass']);
 });
 
 gulp.task('server', shell.task([

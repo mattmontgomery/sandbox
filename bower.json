@@ -3,6 +3,7 @@
     "author": "https://github.com/mattmontgomery/sandbox.git",
     "dependencies": {
         "jquery": "~2",
+        "list.js": "",
         "underscore": "",
         "backbone": "",
         "moment": "~2",
@@ -13,6 +14,8 @@
         "impress.js": "",
         "normalize.css": "",
         "q": "",
-        "bluebird": ""
+        "bluebird": "",
+        "angularjs": "",
+        "pen": "https://github.com/mattmontgomery/pen.git"
     }
 }

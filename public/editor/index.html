@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <script data-main="js/main" src="/vendor/requirejs/require.js"></script>
+        <script>
+            // Make sure the main has loaded first
+            requirejs(['main'], function(main){
+                // run the app
+                requirejs(['app/app']);
+            });
+        </script>
+        <link rel="stylesheet" type="text/css" href="/stylesheets/editor/app.css">
+    </head>
+    <body>
+        <div id="pen">
+
+        </div>
+    </body>
+</html>

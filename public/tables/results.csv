@@ -1,0 +1,429 @@
+Place,Name,City,Bib No,Age,Gender,Ag,Age Group,Time,Time,Diff,Pace
+1,Jonathan Kotter,Salt Lake City  UT,171,28,M,1,25-29,30:06.0,30:06.1,00:00.1,5:44/M
+2,Alexander Pachev,Orem  UT Us,239,40,M,1,40-44,37:55.8,37:57.0,00:01.2,6:02/M
+3,John Rosswog,Salt Lake City  UT,271,33,M,1,30-34,45:16.3,45:17.7,00:01.4,6:18/M
+4,Daniel Bishop,Salt Lake City  UT,370,22,M,1,19-24,48:41.8,48:43.5,00:01.6,6:26/M
+5,Allie Moore,Salt Lake City  UT,224,26,F,1,25-29,51:34.0,51:35.3,00:01.2,6:33/M
+6,Chris Shane,Holladay  UT USA,462,33,M,2,30-34,52:36.7,52:39.2,00:02.4,6:35/M
+7,Jason Howe,Salt Lake City  UT,376,36,M,1,35-39,53:39.1,53:40.6,00:01.4,6:38/M
+8,Todd Griffith,South Jordan  UT Us,437,26,M,2,25-29,56:19.1,56:20.8,00:01.7,6:44/M
+9,Theodore Danielson,Littleton  CO Us,72,38,M,2,35-39,56:38.9,56:41.2,00:02.3,6:44/M
+10,Thomas Walsh,Salt Lake City  UT,340,27,M,3,25-29,59:37.8,59:44.2,00:06.4,6:51/M
+11,Meredith Sinclair,Salt Lake City  UT,297,35,F,1,35-39,03:51.0,03:57.5,00:06.5,7:01/M
+12,Andrew Jones,Salt Lake City  UT,401,33,M,3,30-34,04:04.0,04:10.0,00:06.0,7:01/M
+13,Andrew Cooper,Salt Lake City  UT,412,40,M,2,40-44,04:09.6,04:19.2,00:09.5,7:02/M
+14,Pete Petersen,Fruit Heights  UT,472,53,M,1,50-54,04:46.7,04:52.6,00:05.9,7:03/M
+15,Mikal Epperson,Salt Lake City  UT,87,34,M,4,30-34,04:56.3,05:00.1,00:03.7,7:03/M
+16,Ryan Pollard,Kaysville  UT Us,391,29,M,4,25-29,05:59.7,06:12.5,00:12.8,7:06/M
+17,Michelle Lowry,Woodland Hills  UT,191,36,F,2,35-39,06:28.2,06:32.4,00:04.2,7:07/M
+18,Nicki Hugie Terry,Arlington  VA Us,145,29,F,2,25-29,06:46.3,06:59.2,00:12.8,7:08/M
+19,Richard Borget,Springville  UT USA,452,44,M,3,40-44,07:11.7,07:17.3,00:05.6,7:09/M
+20,Cory Jessee,Salt Lake City  UT,153,46,M,1,45-49,07:27.6,07:31.3,00:03.6,7:09/M
+21,Taylor Scalley,Salt Lake City  UT,280,39,M,3,35-39,09:12.5,09:17.2,00:04.7,7:13/M
+22,Keb Wilson,Eagle Mountian  UT,400,34,M,5,30-34,09:42.2,09:45.3,00:03.1,7:14/M
+23,Travis Meservy,Provo  UT Us,440,23,M,2,19-24,10:03.7,10:09.2,00:05.5,7:15/M
+24,Trace Lund,Mapleton  UT Us,194,43,M,4,40-44,10:04.3,10:11.2,00:06.9,7:15/M
+25,Ryan Yarnall,Broken Arrow  OK Us,363,22,M,3,19-24,11:07.5,11:11.7,00:04.1,7:18/M
+26,Jamie Whetman,Salt Lake City  UT,347,31,F,1,30-34,11:23.0,11:27.0,00:04.0,7:18/M
+27,Kent Skidmore,West Point  UT Us,298,47,M,2,45-49,12:46.0,12:52.2,00:06.1,7:21/M
+28,Josse Tobiasson,Orem  UT Us,322,35,F,3,35-39,13:16.9,13:21.7,00:04.8,7:22/M
+29,Brian Hansen,Lehi  UT,418,39,M,4,35-39,13:19.3,13:35.9,00:16.6,7:23/M
+30,Steve Turley,,453,46,M,3,45-49,14:12.0,14:18.0,00:06.0,7:25/M
+31,Karl Birkeland,Salt Lake City  UT,34,39,M,5,35-39,17:43.9,17:47.3,00:03.3,7:33/M
+32,Parker Murray,Provo  UT Us,226,23,M,4,19-24,18:46.1,18:52.6,00:06.4,7:35/M
+33,Mckenzie Montague,Elk Ridge  UT Us,223,35,F,4,35-39,19:33.1,19:38.2,00:05.0,7:37/M
+34,Shaun Nielsen,South Jordan  UT Us,231,41,M,5,40-44,20:20.7,20:24.1,00:03.4,7:39/M
+35,Amber Walker,Salt Lake City  UT,337,29,F,3,25-29,20:49.0,21:01.1,00:12.1,7:40/M
+36,Samuel Chavez,West Valley  UT Us,54,41,M,6,40-44,20:50.9,21:01.2,00:10.2,7:40/M
+37,Scott Bernhisel,Salt Lake City  UT,369,55,M,1,55-59,21:19.5,21:25.5,00:05.9,7:41/M
+38,Amy Allred,Kaysville  UT Us,2,28,F,4,25-29,21:47.3,21:59.9,00:12.5,7:42/M
+39,Jessica Jackson,Dexter  MI Us,150,30,F,2,30-34,22:26.2,22:34.4,00:08.2,7:43/M
+40,Kevin Abbott,Highland  UT Us,1,35,M,6,35-39,23:16.6,23:21.4,00:04.7,7:45/M
+41,Heidi Madsen,Salt Lake City  UT,423,22,F,1,19-24,23:22.8,23:29.9,00:07.1,7:46/M
+42,Scott Coberly,San Diego  CA Us,65,37,M,7,35-39,24:43.1,24:45.0,00:01.9,7:49/M
+43,Russ Hall,Billings  MT Us,117,40,M,7,40-44,25:01.4,25:07.4,00:05.9,7:49/M
+44,Scott Nelson,Lindon  UT Us,387,53,M,2,50-54,25:33.7,25:37.2,00:03.4,7:51/M
+45,Juan Caballero,West Jordan  UT Us,45,48,M,4,45-49,25:42.8,25:48.3,00:05.5,7:51/M
+46,Elisha Walton,Kaysville  UT Us,341,34,F,3,30-34,25:50.2,26:07.9,00:17.7,7:51/M
+47,Chad Rennaker,Portland  OR Us,265,47,M,5,45-49,26:21.1,26:27.9,00:06.8,7:52/M
+48,Emily Hansen,Lehi  UT Us,417,39,F,5,35-39,26:36.4,26:53.8,00:17.4,7:53/M
+49,Matthew Davis,Layton  UT Us,77,29,M,5,25-29,26:50.5,26:58.9,00:08.4,7:53/M
+50,David Keller,,469,31,M,6,30-34,26:54.7,27:10.8,00:16.0,7:54/M
+51,Allison Gerrard,Salt Lake City  UT,105,40,F,1,40-44,27:22.7,27:42.6,00:19.9,7:55/M
+52,Paul Cannon,Blackfoot  ID Us,46,18,M,1,15-18,29:03.1,29:04.0,00:00.9,7:59/M
+53,Jade Mangus,West Jordan  UT Us,202,37,M,8,35-39,29:07.1,29:27.9,00:20.8,7:59/M
+54,Paul Carmona,Austin  TX Us,50,49,M,6,45-49,29:27.1,29:32.7,00:05.6,7:59/M
+55,Kirk Thomas,Salt Lake City  UT,319,61,M,1,60-64,29:37.5,29:47.3,00:09.8,8:00/M
+56,Lane Brooks,Highland  UT Us,39,37,M,9,35-39,30:33.5,30:57.1,00:23.5,8:02/M
+57,Eric Huyffer,Jackson  WY Us,147,46,M,7,45-49,30:36.5,30:56.9,00:20.4,8:02/M
+58,Jordan Evans,Lander  WY Us,89,24,F,2,19-24,30:54.8,31:02.7,00:07.9,8:03/M
+59,Andy Hortin,Salt Lake City  UT,142,23,M,5,19-24,30:58.6,31:05.0,00:06.4,8:03/M
+60,Glen Anderson,Kents Store  VA Us,5,46,M,8,45-49,30:59.6,31:11.4,00:11.7,8:03/M
+61,Scott Rich,South Jordan  UT Us,266,43,M,8,40-44,31:09.8,31:24.5,00:14.6,8:03/M
+62,Nick Sampas,San Jose  CA Us,277,53,M,3,50-54,31:23.1,31:35.3,00:12.1,8:04/M
+63,David Nielson,San Antonio  TX Us,388,54,M,4,50-54,32:04.4,32:07.2,00:02.8,8:05/M
+64,Nathan Gammons,Salt Lake City  UT,100,40,M,9,40-44,33:05.2,33:16.4,00:11.1,8:08/M
+65,Suzanne Schnieber,Billings  MT Us,286,34,F,4,30-34,33:14.0,33:32.9,00:18.9,8:08/M
+66,Ryan White,West Valley City  U,349,36,M,10,35-39,33:15.7,33:26.6,00:10.8,8:08/M
+67,Tyler Lafon,Syracuse  UT Us,432,41,M,10,40-44,34:18.6,34:26.2,00:07.5,8:11/M
+68,Jackie Hill,Corona  CA Us,131,33,F,5,30-34,34:23.3,34:32.5,00:09.2,8:11/M
+69,Cameron Kasteler,Draper  UT Us,379,38,M,11,35-39,35:06.8,35:15.9,00:09.1,8:12/M
+70,Tammy Young,Vancouver  WA Us,364,41,F,2,40-44,35:12.4,35:16.2,00:03.8,8:13/M
+71,Donald Ralph,Kaysville  UT Us,258,40,M,11,40-44,35:23.4,35:33.6,00:10.2,8:13/M
+72,Dale Malmrose,Sandy  UT Us,200,57,M,2,55-59,35:26.5,35:43.9,00:17.4,8:13/M
+73,Kate Clark,Midland  TX Us,61,34,F,6,30-34,35:30.4,35:40.9,00:10.4,8:13/M
+74,Kara Shelley,Bountiful  UT Us,291,35,F,6,35-39,35:36.7,35:48.8,00:12.0,8:14/M
+75,Simon Tolstrup,Northcote  VIC Au,324,32,M,7,30-34,35:47.0,36:02.3,00:15.3,8:14/M
+76,Traci Hansen,Salt Lake City  UT,122,43,F,3,40-44,36:03.1,36:11.9,00:08.8,8:15/M
+77,Vern Jaques,St Michaels  AZ Us,430,47,M,9,45-49,36:09.6,36:49.3,00:39.7,8:15/M
+78,Jann Wakefield,Lehi  UT Us,336,38,F,7,35-39,37:01.4,37:11.1,00:09.7,8:17/M
+79,David Bishop,Salt Lake City  UT,371,24,M,6,19-24,37:05.5,37:12.2,00:06.6,8:17/M
+80,Josh Scott,Payson  UT Us,288,32,M,8,30-34,37:27.4,37:32.8,00:05.3,8:18/M
+81,Melinda Merkley,Taylorsville  UT Us,217,35,F,8,35-39,37:35.8,37:45.2,00:09.4,8:18/M
+82,Shanti Sheppard,Salt Lake City  UT,293,35,M,12,35-39,38:09.5,38:32.0,00:22.5,8:19/M
+83,Britta Holmes,Corona  CA Us,137,33,F,7,30-34,38:11.6,38:20.6,00:08.9,8:19/M
+84,Kalvin Pike,Idaho Falls  ID Us,251,50,M,5,50-54,38:22.6,38:34.3,00:11.7,8:20/M
+85,Michael Cragun,Bothwell  UT Us,372,41,M,12,40-44,38:33.2,38:45.0,00:11.7,8:20/M
+86,Krista Hofmann,,473,35,F,9,35-39,38:35.6,38:51.5,00:15.9,8:20/M
+87,Scott Freimuth,West Jordan  UT Us,97,42,M,13,40-44,38:43.2,39:58.9,01:15.6,8:21/M
+88,Danielle Beckstrom,Alpine  UT Us,427,21,F,3,19-24,39:30.8,40:00.8,00:30.0,8:22/M
+89,Jeremy Clegg,Salt Lake City  UT,407,33,M,9,30-34,39:45.2,39:51.0,00:05.7,8:23/M
+90,Lauren Morin,Layton  UT USA,455,22,F,4,19-24,39:56.4,40:12.5,00:16.0,8:23/M
+91,Tiffany Rowley,Provo  UT Us,275,23,F,5,19-24,40:22.2,40:44.9,00:22.6,8:24/M
+92,Matthew Shoemaker,North Logan  UT Us,294,47,M,10,45-49,40:27.3,40:49.1,00:21.8,8:25/M
+93,John Anderson,Roy  UT Us,7,41,M,14,40-44,40:36.4,40:51.4,00:15.0,8:25/M
+94,Marc Sanderson,Pleasant Grove  UT,278,42,M,15,40-44,41:05.3,41:10.0,00:04.7,8:26/M
+95,Jamen Nelson,Salt Lake City  UT,470,29,M,6,25-29,41:39.4,45:00.1,03:20.6,8:27/M
+96,Vlad Turchenko,Salt Lake City  UT,459,46,M,11,45-49,41:59.0,42:17.6,00:18.5,8:28/M
+97,Kelli Davey,Draper  UT Us,74,41,F,4,40-44,42:54.1,43:13.6,00:19.5,8:30/M
+98,Graeme Cox,Salt Lake City  UT,69,41,M,16,40-44,43:02.4,43:37.6,00:35.2,8:31/M
+99,Paul Hunter,Verona  WI Us,146,42,M,17,40-44,44:17.1,44:33.2,00:16.1,8:33/M
+100,Brett Wilding,Kaysville  UT Us,350,54,M,6,50-54,44:40.8,44:45.7,00:04.9,8:34/M
+101,Aubree Hunter,,477,31,F,8,30-34,44:50.2,45:14.7,00:24.4,8:35/M
+102,Douglas Arveseth,Salt Lake City  UT,11,38,M,13,35-39,44:55.5,45:25.2,00:29.6,8:35/M
+103,Caleb Wilson,Provo  UT Us,399,17,M,2,15-18,45:02.2,45:21.0,00:18.7,8:35/M
+104,Lucky Dego,,467,32,F,9,30-34,45:38.0,45:46.4,00:08.3,8:37/M
+105,Matthew Painter,Aloha  OR Us,240,18,M,3,15-18,45:39.8,45:44.3,00:04.5,8:37/M
+106,Marlo Stradley,West Jordan  UT Us,395,55,M,3,55-59,45:40.3,45:58.5,00:18.2,8:37/M
+107,Clinton Shumway,South Jordan  UT Us,431,38,M,14,35-39,46:12.7,46:20.6,00:07.9,8:38/M
+108,Matt Kresge,Orem  UT Us,172,22,M,7,19-24,46:19.6,46:27.9,00:08.3,8:38/M
+109,Nick Parson,Cedar City  UT Us,244,33,M,10,30-34,46:25.0,46:31.5,00:06.4,8:38/M
+110,Amy Giauque,Gilbert  AZ Us,106,36,F,10,35-39,46:36.4,46:50.2,00:13.8,8:39/M
+111,Rose Lowry,Lehi  UT Us,192,28,F,5,25-29,46:37.2,46:54.6,00:17.3,8:39/M
+112,Gary Theriault,Kailua Kona  HI Us,397,58,M,4,55-59,47:31.3,47:33.6,00:02.3,8:41/M
+113,Sylvia Greer,Layton  UT Us,111,35,F,11,35-39,47:34.8,47:49.3,00:14.4,8:41/M
+114,Lex Curtis,St. George  UT Us,428,38,M,15,35-39,47:39.4,47:46.3,00:06.8,8:41/M
+115,Mark Kappos,Ogden  UT Us,160,52,M,7,50-54,47:53.9,47:56.2,00:02.2,8:42/M
+116,Berkeley Andrus,Beaverton  OR Us,9,18,M,4,15-18,48:15.5,48:34.2,00:18.7,8:43/M
+117,Thomas Mecham,Salt Lake City  UT,216,47,M,12,45-49,48:17.2,48:25.2,00:08.0,8:43/M
+118,Tim Chesley,Park City  UT Us,56,48,M,13,45-49,48:30.3,48:48.5,00:18.2,8:43/M
+119,Jason Flood,Whitewater  WI Us,91,33,M,11,30-34,48:53.9,49:30.8,00:36.9,8:44/M
+120,Rob Eastman,Bountiful  UT Us,84,35,M,16,35-39,48:58.7,49:05.9,00:07.1,8:44/M
+121,Clark Draney,Sandy  UT Us,81,30,M,12,30-34,50:01.2,50:21.4,00:20.1,8:47/M
+122,Robert Eder,Salt Lake City  UT,85,43,M,18,40-44,50:04.1,50:32.8,00:28.6,8:47/M
+123,Nathan Bailey,West Jordan  UT Us,367,38,M,17,35-39,50:06.7,50:25.1,00:18.4,8:47/M
+124,Maria Hermon,Buda  TX Us,128,55,F,1,55-59,50:07.9,50:21.8,00:13.8,8:47/M
+125,Bryce Maughan,Riverton  UT Us,438,30,M,13,30-34,50:27.0,50:34.8,00:07.7,8:48/M
+126,Troy Williamson,Kaysville  UT Us,355,40,M,19,40-44,50:37.1,50:41.4,00:04.2,8:48/M
+127,Rex Wilson,Salt Lake City  UT,357,19,M,8,19-24,51:28.8,51:46.9,00:18.1,8:50/M
+128,Holly Milne,Midland  TX Us,218,32,F,10,30-34,51:47.0,52:07.7,00:20.6,8:51/M
+129,Marcie Nielsen,Murray  UT USA,444,47,F,1,45-49,51:52.4,52:05.4,00:13.0,8:51/M
+130,Claudia Landeros,San Antonio  TX Us,177,38,F,12,35-39,52:06.6,52:33.5,00:26.8,8:51/M
+131,Greg Colvin,Houston  TX Us,66,47,M,14,45-49,52:08.1,52:15.7,00:07.6,8:51/M
+132,Carolyn McAfee,East Amherst  NY Us,209,35,F,13,35-39,52:12.5,52:24.9,00:12.4,8:52/M
+133,Eric Peterson,Logan  UT Us,248,49,M,15,45-49,52:31.0,53:33.4,01:02.4,8:52/M
+134,Jill Haycock,Bountiful  UT Us,127,27,F,6,25-29,52:48.1,53:03.3,00:15.2,8:53/M
+135,Scott Kimball,Slc  UT Us,380,28,M,7,25-29,52:55.6,53:22.8,00:27.2,8:53/M
+136,Taylor Turner,Seattle  WA Us,332,32,M,14,30-34,53:13.0,53:30.0,00:16.9,8:54/M
+137,Thomas Pili,West Valley  UT Us,252,23,M,9,19-24,53:29.4,53:50.6,00:21.1,8:54/M
+138,Doug Perry,Woods Cross  UT Us,247,43,M,20,40-44,53:54.5,54:03.0,00:08.4,8:55/M
+139,Brooke Goodwin,South Jordan  UT Us,374,43,F,5,40-44,54:01.9,54:11.7,00:09.8,8:56/M
+140,William Dunson,Centerville  UT Us,83,47,M,16,45-49,54:18.6,54:41.4,00:22.8,8:56/M
+141,Hui Choe,Cottonwood Heights,59,50,M,8,50-54,54:34.8,54:38.1,00:03.2,8:57/M
+142,Kent Nef,Layton  UT Us,228,55,M,5,55-59,54:38.8,55:29.0,00:50.1,8:57/M
+143,Jacqui Knighton,St George  UT Us,167,34,F,11,30-34,54:45.5,54:57.5,00:11.9,8:57/M
+144,Gail Martin,Sharon  MA Us,205,48,F,2,45-49,54:46.0,55:07.1,00:21.1,8:57/M
+145,Marlin Shelley,Bountiful  UT Us,292,65,M,1,65-69,54:59.0,55:29.9,00:30.9,8:58/M
+146,Matthew Dubois,Lehi  UT Us,82,31,M,15,30-34,54:59.4,55:04.9,00:05.4,8:58/M
+147,Craig Oberg,Liberty  UT Us,234,57,M,6,55-59,55:04.4,55:14.7,00:10.3,8:58/M
+148,Michael Shasberger,Goleta  CA Us,289,60,M,2,60-64,55:14.4,55:21.4,00:07.0,8:58/M
+149,Loren Reid,Salt Lake City  UT,262,31,M,16,30-34,55:24.7,56:17.0,00:52.2,8:59/M
+150,Sheryl Kitchen,St. George  UT Us,166,50,F,1,50-54,55:29.4,55:54.5,00:25.0,8:59/M
+151,Jason Young,Riverton  UT Us,424,44,M,21,40-44,55:35.7,55:50.2,00:14.4,8:59/M
+152,Melissa Shust,Washington  MO Us,295,48,F,3,45-49,55:46.3,56:04.5,00:18.2,9:00/M
+153,Johnathan Hansen,Salt Lake City  UT,121,21,M,10,19-24,56:23.6,56:32.7,00:09.1,9:01/M
+154,Mathew Myrup,Murray  UT Us,227,33,M,17,30-34,56:38.9,57:53.8,01:14.8,9:02/M
+155,Nate Checketts,West Jordan  UT Us,55,40,M,22,40-44,56:52.0,58:07.6,01:15.5,9:02/M
+156,Anderson Bake,Aloha  OR Us,14,18,M,5,15-18,57:18.1,57:36.5,00:18.3,9:03/M
+157,Dan Lew,San Francisco  CA U,184,61,M,3,60-64,57:20.8,57:38.5,00:17.7,9:03/M
+158,Steve Crandall,Cottonwood Heights,70,50,M,9,50-54,57:29.4,57:53.3,00:23.8,9:04/M
+159,Brent Bell,Sandy  UT USA,445,56,M,7,55-59,57:39.8,57:51.8,00:12.0,9:04/M
+160,Suni Woolstenhulme,Oakley  UT Us,360,32,F,12,30-34,57:43.2,58:29.9,00:46.6,9:04/M
+161,Lisa Mitchell,Santa Clara  UT Us,220,52,F,2,50-54,57:45.5,58:10.3,00:24.7,9:04/M
+162,Larry Benson,Fruita  CO Us,27,41,M,23,40-44,57:50.7,58:28.4,00:37.6,9:04/M
+163,Louis Koberstein,Logan  UT Us,169,34,M,18,30-34,57:56.6,58:20.5,00:23.9,9:05/M
+164,Leanne Miner,Gilbert  AZ Us,219,27,F,7,25-29,58:08.8,58:22.8,00:13.9,9:05/M
+165,Jason Carroll,Sandy  UT Us,52,31,M,19,30-34,58:23.6,58:55.9,00:32.3,9:06/M
+166,Joel Bass,South Ogden  UT Us,18,52,M,10,50-54,58:43.3,58:54.3,00:11.0,9:06/M
+167,Dennis Ralph,Lehi  UT Us,257,40,M,24,40-44,58:50.0,58:59.6,00:09.5,9:07/M
+168,Cory Rydman,Eagle Mountain  UT,276,37,M,18,35-39,58:52.4,59:02.7,00:10.2,9:07/M
+169,Kurt Halverson,Layton  UT USA,454,49,M,17,45-49,58:59.1,59:15.2,00:16.1,9:07/M
+170,Marci Bradley,Salt Lake City  UT,458,36,F,14,35-39,58:59.5,59:10.2,00:10.6,9:07/M
+171,Troy Schultz,Salt Lake City  UT,287,53,M,11,50-54,59:07.9,59:23.3,00:15.4,9:07/M
+172,Alesha Hill,Salt Lake City  UT,130,39,F,15,35-39,59:08.7,59:35.8,00:27.0,9:07/M
+173,Denise Landvatter,Salt Lake City  UT,178,57,F,2,55-59,59:31.9,00:18.5,00:46.5,9:08/M
+174,Kent Landvatter,Salt Lake City  UT,179,59,M,8,55-59,59:51.4,00:19.3,00:27.8,9:09/M
+175,Joe Liuzzi,Sandy  UT Us,188,18,M,6,15-18,59:54.9,00:14.5,00:19.5,9:09/M
+176,Jason Bass,South Ogden  UT USA,17,25,M,8,25-29,59:57.9,00:09.1,00:11.2,9:09/M
+177,Cathie Carlson,Sandy  UT Us,48,56,F,3,55-59,00:00.2,00:27.8,00:27.6,9:09/M
+178,Weston Koberstein,Sacramento  CA Us,170,36,M,19,35-39,00:58.5,01:21.8,00:23.2,9:12/M
+179,Perry Hacker,Salt Lake City  UT,115,47,M,18,45-49,01:13.4,05:54.1,04:40.6,9:12/M
+180,Marlane Hill,Gilbert  AZ Us,132,39,F,16,35-39,01:51.7,02:04.3,00:12.6,9:14/M
+181,David Wrigley,Kansas City  MO Us,361,34,M,20,30-34,01:53.2,02:09.3,00:16.0,9:14/M
+182,Suzette Bacigalupi,St George  UT Us,12,52,F,3,50-54,02:48.5,02:59.8,00:11.2,9:16/M
+183,Gary Ure,Kamas  UT Us,398,32,M,21,30-34,03:10.0,03:50.3,00:40.3,9:17/M
+184,John Dean,South Jordan  UT Us,79,43,M,25,40-44,03:24.3,03:32.7,00:08.3,9:17/M
+185,Ralph Clingan,St. George  UT Us,64,56,M,9,55-59,03:26.4,03:37.9,00:11.5,9:17/M
+186,Andrea Bird,Salt Lake City  UT,31,41,F,6,40-44,03:43.8,03:58.2,00:14.4,9:18/M
+187,Adam Christensen,Taylorsville  UT Us,60,35,M,20,35-39,04:04.6,04:37.9,00:33.3,9:19/M
+188,Dennis Romboy,American Fork  UT U,447,50,M,12,50-54,04:59.8,05:23.1,00:23.3,9:21/M
+189,Jason Hodson,Orem  UT Us,135,22,M,11,19-24,05:19.6,05:22.3,00:02.7,9:22/M
+190,Annie Osmond,Highland  UT Us,237,28,F,8,25-29,06:05.8,06:43.4,00:37.5,9:23/M
+191,David Martin,Sharon  MA Us,204,53,M,13,50-54,06:10.6,06:33.5,00:22.8,9:24/M
+192,Bob Schluben,Lenexa  KS Us,284,43,M,26,40-44,06:12.5,06:38.9,00:26.4,9:24/M
+193,Clint Nash,Riverton  UT Us,422,36,M,21,35-39,06:39.3,07:38.2,00:58.8,9:25/M
+194,Jennifer Lundman,Erie  CO Us,195,36,F,17,35-39,06:41.6,07:07.5,00:25.8,9:25/M
+195,Christopher Gibson,,466,30,M,22,30-34,07:51.4,08:01.9,00:10.4,9:27/M
+196,Andrew Emrazian,West Valley City  U,86,28,M,9,25-29,07:52.2,08:15.8,00:23.6,9:27/M
+197,Patrick Baker,Tooele  UT Us,15,57,M,10,55-59,07:55.1,07:56.6,00:01.5,9:28/M
+198,Brian Hancey,South Jordan  UT Us,119,43,M,27,40-44,08:01.8,08:58.6,00:56.8,9:28/M
+199,David Terry,Arlington  VA Us,318,30,M,23,30-34,08:01.9,08:15.9,00:13.9,9:28/M
+200,Jennifer Anderson,Highland  UT Us,6,34,F,13,30-34,08:17.8,08:55.4,00:37.5,9:28/M
+201,Dominique Kagele,Salt Lake City  UT,159,29,F,9,25-29,08:43.9,09:08.6,00:24.6,9:29/M
+202,Keith Anderson,Deweyville  UT Us,8,57,M,11,55-59,09:29.2,09:40.3,00:11.0,9:31/M
+203,Vitor Lima,Hideout  UT Us,185,34,M,24,30-34,09:41.5,10:19.9,00:38.4,9:32/M
+204,Kenn Beer,Traralgon  VIC Au,23,33,M,25,30-34,09:47.4,10:02.8,00:15.4,9:32/M
+205,Casey Reinl,Henderson  NV Us,264,26,M,10,25-29,09:55.0,09:58.8,00:03.8,9:32/M
+206,James Harrison,North Ogden  UT Us,124,45,M,19,45-49,10:39.5,11:01.8,00:22.3,9:34/M
+207,Kari Lister,Fallon  NV Us,187,30,F,14,30-34,10:53.4,11:23.7,00:30.3,9:34/M
+208,Susan Roundy,American Fork  UTAH,272,35,F,18,35-39,11:01.1,11:15.5,00:14.4,9:35/M
+209,Blair Bagley,Bountiful  UT Us,13,29,F,10,25-29,11:08.7,11:34.0,00:25.2,9:35/M
+210,Mitchell Boudreaux,South Jordan  UT Us,37,20,M,12,19-24,11:16.8,11:42.3,00:25.5,9:35/M
+211,Frank Hobbs,West Jordan  UT Us,134,54,M,14,50-54,11:17.7,11:37.4,00:19.7,9:35/M
+212,Ashley Perkes,Taylorsville  UT Us,246,32,F,15,30-34,11:38.3,11:48.5,00:10.2,9:36/M
+213,Clayton Hill,,456,35,M,22,35-39,11:43.0,12:00.2,00:17.2,9:36/M
+214,Tara Low,Morgan  UT Us,190,43,F,7,40-44,11:49.9,12:45.2,00:55.3,9:36/M
+215,Jay Horsley,Fallon  NV Us,140,48,M,20,45-49,11:50.6,12:19.8,00:29.2,9:36/M
+216,Erik Anderberg,Bloomington  MN Us,3,24,M,13,19-24,11:54.6,12:27.9,00:33.3,9:37/M
+217,Dan Nelson,Smith River  CA Us,229,54,M,15,50-54,12:25.7,12:29.1,00:03.3,9:38/M
+218,Stephanie Waasdorp,Bountiful  UT Us,335,32,F,16,30-34,12:33.1,13:43.4,01:10.2,9:38/M
+219,Phillip Guillen,San Antonio  TX Us,114,32,M,26,30-34,12:36.3,13:27.2,00:50.9,9:38/M
+220,Michael Hurst,South Jordan  UT Us,377,57,M,12,55-59,12:39.1,13:06.2,00:27.0,9:38/M
+221,Annelies Paluso,Washington  UT Us,242,48,F,4,45-49,12:51.5,13:22.1,00:30.6,9:39/M
+222,Debbie Zockoll,St. George  UT Us,366,57,F,4,55-59,12:52.2,13:24.0,00:31.7,9:39/M
+223,Kay Berry,St. George  UT Us,28,51,F,4,50-54,12:54.4,13:20.5,00:26.1,9:39/M
+224,Darin Moss,Missouri City  TX U,225,49,M,21,45-49,13:02.3,13:14.4,00:12.1,9:39/M
+225,George H Sunderland,Washington  UT USA,313,58,M,13,55-59,13:39.0,13:55.3,00:16.3,9:41/M
+226,Galen Garrison,Draper  UT Us,103,48,M,22,45-49,14:34.1,15:01.3,00:27.2,9:43/M
+227,Kirk White,Provo  UT Us,348,56,M,14,55-59,14:56.4,15:34.8,00:38.3,9:44/M
+228,Thomas Boud,South Jordan  UT Us,36,48,M,23,45-49,15:06.4,15:50.1,00:43.7,9:44/M
+229,Kevin Flanagan,Orem  UT Us,90,49,M,24,45-49,15:11.5,15:28.1,00:16.6,9:44/M
+230,Austin Williams,Lubbock  TX Us,353,29,M,11,25-29,16:18.2,16:53.3,00:35.0,9:47/M
+231,Suzanne Walker,Cochrane  AB Ca,338,34,F,17,30-34,16:52.1,17:17.5,00:25.4,9:48/M
+232,Anastacia Rollins,Sandy  UT Us,419,43,F,8,40-44,16:59.7,17:33.0,00:33.2,9:48/M
+233,Emily Osness,Salt Lake City  UT,238,33,F,18,30-34,17:03.8,17:32.0,00:28.1,9:48/M
+234,Thomas Hatathli,,475,54,M,16,50-54,17:34.7,17:43.7,00:08.9,9:50/M
+235,Jason Schick,Farmington  UT Us,282,39,M,23,35-39,17:51.7,18:22.0,00:30.3,9:50/M
+236,Ryan Shatzer,Salt Lake City  UT,290,29,M,12,25-29,18:18.3,18:33.9,00:15.5,9:51/M
+237,Colin Maughan,Herriman  UT Us,429,36,M,24,35-39,18:40.6,18:47.6,00:07.0,9:52/M
+238,Dan Warren,Syracuse  UT Us,342,65,M,2,65-69,18:41.8,19:25.8,00:44.0,9:52/M
+239,Cynthia Glenn,Danville  CA Us,110,42,F,9,40-44,19:18.5,19:48.9,00:30.4,9:54/M
+240,Jordan Odom,Saratoga Springs  U,235,38,M,25,35-39,19:44.8,20:09.0,00:24.2,9:55/M
+241,Mike Summerhays,Cottonwood Heights,312,39,M,26,35-39,19:48.6,20:24.2,00:35.6,9:55/M
+242,Caroline Justice,Salt Lake City  UT,158,35,F,19,35-39,20:23.8,21:06.1,00:42.2,9:56/M
+243,Ryan Norman,Paradise  UT Us,233,24,M,14,19-24,21:03.7,21:05.9,00:02.1,9:58/M
+244,Angie Spencer,Sikeston  MO Us,394,34,F,19,30-34,21:16.2,21:44.6,00:28.3,9:58/M
+245,Lorren Mitchell,Herriman  UT Us,221,24,F,6,19-24,21:20.4,21:39.7,00:19.2,9:58/M
+246,George Guerrero,South Jordan  UT Us,113,47,M,25,45-49,21:25.2,21:33.5,00:08.3,9:58/M
+247,Sue Tatton,West Valley City  U,317,65,F,1,65-69,21:34.4,22:41.7,01:07.3,9:59/M
+248,Spencer Holt,Stansbury Park  UT,138,35,M,27,35-39,21:51.6,22:11.4,00:19.7,9:59/M
+249,Shay Penney,Granstville  UT Us,245,38,M,28,35-39,21:57.3,22:31.2,00:33.8,10:00/M
+250,Matthew Hill,Bountiful  UT Us,133,34,M,27,30-34,21:57.6,22:30.9,00:33.3,10:00/M
+251,William Thomson,Kearns  UT Us,321,55,M,15,55-59,22:18.5,23:10.5,00:52.0,10:00/M
+252,Maria Linnell,Salt Lake City  UT,383,27,F,11,25-29,22:19.2,22:59.6,00:40.3,10:00/M
+253,Ray Squier,North Ogden  UT Us,304,44,M,28,40-44,22:35.3,22:57.4,00:22.1,10:01/M
+254,Mark McGuinness,Park City  UT Us,403,43,M,29,40-44,22:36.5,22:54.1,00:17.5,10:01/M
+255,Bradley Bateman,Clearfield  UT Us,19,33,M,28,30-34,22:53.0,23:37.4,00:44.4,10:02/M
+256,Margaret Leuschner,South Weber  UT Us,381,58,F,5,55-59,23:12.7,23:46.8,00:34.1,10:03/M
+257,Spencer Landeen,Sandy  UT Us,176,23,M,15,19-24,23:27.7,23:59.9,00:32.2,10:03/M
+258,Raylene Custer,Lehi  UT Us,71,36,F,20,35-39,24:24.5,25:00.1,00:35.6,10:05/M
+259,Jennifer Broyles,,443,29,F,12,25-29,24:30.8,25:20.4,00:49.6,10:05/M
+260,Val Klem,,449,54,M,17,50-54,24:45.6,25:37.2,00:51.6,10:06/M
+261,Steven Horsley,North Salt Lake  UT,141,49,M,26,45-49,25:20.0,25:56.8,00:36.7,10:07/M
+262,Jana Foggin,Saint George  UT Us,92,38,F,21,35-39,25:20.1,25:50.6,00:30.4,10:07/M
+263,Alberto Marin,Salt Lake City  UT,203,40,M,30,40-44,25:26.8,25:34.3,00:07.4,10:08/M
+264,Chase Bryan,Salt Lake City  UT,43,23,M,16,19-24,25:56.0,26:21.2,00:25.2,10:09/M
+265,Liisa Frei,St George  UT Us,96,51,F,5,50-54,26:27.0,26:53.7,00:26.7,10:10/M
+266,Richard Rosier,Kaysville  UT Us,392,49,M,27,45-49,26:53.1,27:52.0,00:58.8,10:11/M
+267,Barbara Garey,Evergreen  CO Us,102,45,F,5,45-49,27:29.8,28:00.7,00:30.9,10:12/M
+268,Paul Lineback,Cameron Park  CA Us,186,56,M,16,55-59,27:48.0,28:23.0,00:34.9,10:13/M
+269,Stevan Ranson,Hartsville  IN Us,259,34,M,29,30-34,27:50.7,28:13.5,00:22.7,10:13/M
+270,Steve Sodergren,Topeka  KS Us,301,50,M,18,50-54,27:56.2,28:45.4,00:49.2,10:13/M
+271,Blaine Phillips,Bountiful  UT USA,250,54,M,19,50-54,27:56.6,28:41.9,00:45.3,10:13/M
+272,Andrea Zaragoza,Winchester  CA Us,365,27,F,13,25-29,27:57.4,28:54.3,00:56.9,10:13/M
+273,Kevin Rowe,South Jordan  UT Us,273,39,M,29,35-39,28:33.3,29:29.6,00:56.3,10:15/M
+274,Nanette Palmer,South Jordan  UT Us,241,45,F,6,45-49,28:34.2,29:30.0,00:55.7,10:15/M
+275,Jeremy Spekman,Salt Lake City  UT,303,28,M,13,25-29,28:37.9,29:25.3,00:47.4,10:15/M
+276,Jacee Strasburg,Lehi  UT Us,308,30,F,20,30-34,29:13.8,29:49.9,00:36.0,10:16/M
+277,Nicole Thatcher,Saratoga Springs  U,435,30,F,21,30-34,29:44.7,30:39.7,00:55.0,10:17/M
+278,Heidi Perdue,Saratoga Springs  U,426,33,F,22,30-34,29:44.8,30:39.8,00:55.0,10:17/M
+279,Adam Ririe,Rexburg  ID Us,267,30,M,30,30-34,29:55.3,30:47.1,00:51.8,10:18/M
+280,Jonathan Mathews,North Salt Lake Cit,207,35,M,30,35-39,30:43.5,31:17.7,00:34.2,10:20/M
+281,Kyle Sunderman,Penticton  BC Ca,314,42,M,31,40-44,30:47.2,31:11.5,00:24.3,10:20/M
+282,Suzie Ruggles,,446,48,F,7,45-49,30:47.7,31:20.2,00:32.4,10:20/M
+283,Jolee Edwards,Bluffdale  UT USA,442,47,F,8,45-49,30:48.5,31:20.2,00:31.6,10:20/M
+284,Gerie Timm,So Jordan  UT USA,441,42,F,10,40-44,30:48.5,31:20.3,00:31.8,10:20/M
+285,Curtis Jarratt,Billings  MT Us,406,66,M,3,65-69,30:49.8,31:11.9,00:22.0,10:20/M
+286,Carlyn Kinn,Evanston  IL Us,165,27,F,14,25-29,33:29.9,34:08.2,00:38.3,10:26/M
+287,Donna Pizza,Cottonwood Heights,390,55,F,6,55-59,34:18.4,35:05.3,00:46.8,10:28/M
+288,Annette Rappleye,Centerville  UT Us,260,43,F,11,40-44,34:52.2,35:21.2,00:29.0,10:29/M
+289,Peter Lelis,Salt Lake City  UT,402,30,M,31,30-34,34:52.5,35:23.3,00:30.8,10:29/M
+290,Wayne Rappleye,Centerville  UT Us,261,46,M,28,45-49,35:00.0,35:21.3,00:21.2,10:30/M
+291,Tyler Tucker,Moab  UT Us,328,26,M,14,25-29,35:15.9,35:55.2,00:39.2,10:30/M
+292,Braydan Bezzant,American Fork  UT U,29,17,M,7,15-18,36:08.2,36:42.3,00:34.1,10:32/M
+293,Marc Collman,North Ogden  UT USA,450,56,M,17,55-59,36:09.2,36:31.8,00:22.6,10:32/M
+294,Curtis Galvez,Ogden  UT Us,99,60,M,4,60-64,36:27.3,37:12.4,00:45.1,10:33/M
+295,Maren Tucker,Ogden  UT Us,327,34,F,23,30-34,36:27.3,37:12.0,00:44.7,10:33/M
+296,Delia McEwen,West Jordan  UT Us,211,32,F,24,30-34,36:50.4,37:55.3,01:04.9,10:34/M
+297,Brandi Noble,Layton  UT Us,232,38,F,22,35-39,37:12.1,38:02.9,00:50.8,10:35/M
+298,Hanko Kiessner,Salt Lake City  UT,476,46,M,29,45-49,38:45.4,39:31.0,00:45.6,10:38/M
+299,Robert Fox,Chilliwack  BC Ca,95,39,M,31,35-39,39:27.0,39:47.5,00:20.5,10:40/M
+300,Kurt Olsen,Kaysville  UT Us,409,49,M,30,45-49,40:18.4,41:35.4,01:16.9,10:42/M
+301,Janalyn Jones,Tulsa  OK Us,156,34,F,25,30-34,41:01.7,41:29.2,00:27.4,10:43/M
+302,Scott Lindsey,Surprise  AZ Us,382,34,M,32,30-34,41:02.2,41:29.9,00:27.7,10:43/M
+303,Linda Sorensen,Bountiful  UT Us,302,53,F,6,50-54,41:26.8,41:42.6,00:15.7,10:44/M
+304,Katie Carmona,Austin  TX Us,49,44,F,12,40-44,41:42.3,42:16.9,00:34.5,10:45/M
+305,Loal Lee,West Jordan  UT Us,425,50,M,20,50-54,42:58.2,43:24.7,00:26.5,10:48/M
+306,Jocelin Gibson,Providence  UT Us,107,40,F,13,40-44,43:01.8,43:43.7,00:41.9,10:48/M
+307,Dominique Jones,Fallon  NV Us,155,40,F,14,40-44,44:03.7,44:33.6,00:29.9,10:50/M
+308,Devere Karlson,Fallon  NV Us,161,55,F,7,55-59,44:05.1,44:37.7,00:32.6,10:50/M
+309,Cody Judy,Ogden  UT Us,157,47,M,31,45-49,44:07.1,44:28.7,00:21.5,10:50/M
+310,Cathi Gridley,Syracuse  UT Us,112,39,F,23,35-39,44:12.3,44:55.7,00:43.3,10:51/M
+311,Joe Lorsen,,461,64,M,5,60-64,44:13.1,44:37.4,00:24.3,10:51/M
+312,Dawn Bentley,South Jordan  UT Us,415,44,F,15,40-44,44:23.7,45:02.7,00:39.0,10:51/M
+313,Jennifer Harward,Farmington  UT Us,126,42,F,16,40-44,46:09.8,47:01.3,00:51.5,10:55/M
+314,S James Peterson,Riverton  UT Us,249,39,M,32,35-39,46:21.5,47:02.2,00:40.7,10:56/M
+315,Maike Jones,,463,32,F,26,30-34,46:45.9,47:28.8,00:42.9,10:56/M
+316,Porter Jones,,464,32,M,33,30-34,46:46.1,47:29.1,00:43.0,10:56/M
+317,Ruby Turner,Castle Rock  CO Us,408,31,F,27,30-34,46:55.9,47:25.2,00:29.3,10:57/M
+318,Mike Rosner,Ogden  UT Us,270,67,M,4,65-69,47:00.6,47:25.7,00:25.0,10:57/M
+319,April Hugie,Taylorsville  UT Us,144,24,F,7,19-24,47:51.6,48:06.4,00:14.7,10:59/M
+320,Erin McFarlane,Evanston  WY Us,212,32,F,28,30-34,47:55.4,48:27.5,00:32.0,10:59/M
+321,Erin McFarlane,Evanston  WY Us,213,32,M,34,30-34,47:57.1,48:30.4,00:33.3,10:59/M
+322,Taylor Jensen,South Jordan  UT Us,152,25,M,15,25-29,47:58.9,48:00.9,00:02.0,10:59/M
+323,Misty Suarez,West Jordan  UT Us,310,44,F,17,40-44,49:03.9,49:20.0,00:16.1,11:02/M
+324,Carl Tippets,South Jordan  UT US,460,60,M,6,60-64,49:04.1,49:20.2,00:16.0,11:02/M
+325,Robert Bird,South Jordan  UT Us,32,41,M,32,40-44,49:17.3,49:31.2,00:13.8,11:02/M
+326,Shanna Bird,South Jordan  UT Us,33,39,F,24,35-39,49:17.4,49:30.6,00:13.1,11:02/M
+327,Seth Robins,Rexburg  ID Us,269,31,M,35,30-34,49:35.3,50:27.5,00:52.1,11:03/M
+328,Nathan Nydegger,Providence  UT Us,389,32,M,36,30-34,49:53.1,50:30.3,00:37.2,11:04/M
+329,Mike Hynes,Meridian  ID Us,148,37,M,33,35-39,49:55.1,50:51.3,00:56.2,11:04/M
+330,Jess Hopkin,Morgan  UT Us,139,46,M,32,45-49,50:16.2,51:03.3,00:47.1,11:04/M
+331,Hector Maldonado,Salt Lake City  UT,457,45,M,33,45-49,50:30.5,51:02.5,00:32.0,11:05/M
+332,Eamonn Lavery,Orem  UT Us,181,41,M,33,40-44,50:57.6,52:17.8,01:20.2,11:06/M
+333,Jeffrey Stephens,Sandy  UT Us,306,59,M,18,55-59,51:05.0,51:24.9,00:19.9,11:06/M
+334,Karen Khodadadi,Auburn  AL Us,474,54,F,7,50-54,51:16.9,51:58.8,00:41.9,11:07/M
+335,Holly Fowers,West Jordan  UT Us,94,30,F,29,30-34,51:20.3,52:08.3,00:48.0,11:07/M
+336,John Wallace,Sarasota  FL Us,339,69,M,5,65-69,51:33.8,51:55.8,00:21.9,11:07/M
+337,Jared Cook,Ogden  UT Us,68,36,M,34,35-39,51:41.7,52:46.2,01:04.4,11:08/M
+338,Alex Bennett,Salt Lake City  UT,368,41,M,34,40-44,52:09.4,52:47.0,00:37.5,11:09/M
+339,Laura Layton,Salt Lake City  UT,182,52,F,8,50-54,52:22.1,53:15.9,00:53.8,11:09/M
+340,Dagmar Knudsen,Colorado Springs  C,168,51,F,9,50-54,53:28.4,53:57.9,00:29.4,11:12/M
+341,Jason Lee,Farmington  UT Us,183,39,M,35,35-39,53:40.4,54:20.9,00:40.4,11:12/M
+342,John Calder,,479,28,M,16,25-29,55:22.8,55:51.1,00:28.2,11:16/M
+343,Darren Wilson,Colorado Springs  C,356,49,M,34,45-49,55:28.3,56:01.1,00:32.8,11:16/M
+344,Brinton Wilkins,Sandy  UT Us,351,35,M,36,35-39,55:33.1,56:02.0,00:28.9,11:17/M
+345,Nestor Shust,Washington  MO Us,296,49,M,35,45-49,56:25.5,56:45.5,00:20.0,11:19/M
+346,Sue Todd,Kaysville  UT Us,323,54,F,10,50-54,57:33.6,58:44.4,01:10.7,11:21/M
+347,Lex Sandstrom,West Valley Cit  UT,279,56,M,19,55-59,57:52.4,58:31.5,00:39.0,11:22/M
+348,Morgan Holbrook,Meridian  ID Us,544,18,F,1,15-18,58:00.9,58:48.9,00:48.0,11:22/M
+349,Krissie Summerhays,Cottonwood Heights,311,38,F,25,35-39,58:08.0,58:43.6,00:35.5,11:22/M
+350,Sue Oldroyd,Salt Lake City  UT,236,58,F,8,55-59,58:42.2,59:29.0,00:46.8,11:24/M
+351,Tally Turner,Seattle  WA Us,331,30,F,30,30-34,58:42.8,59:29.5,00:46.6,11:24/M
+352,Maryellyn Larcom,Salt Lake City  UT,180,49,F,9,45-49,59:58.4,00:22.8,00:24.4,11:27/M
+353,John Lancaster,West Jordan  UT Us,175,59,M,20,55-59,00:49.1,01:08.1,00:18.9,11:29/M
+354,Faye Benally,Cortez  CO Us,24,52,F,11,50-54,00:57.7,01:44.3,00:46.5,11:29/M
+355,Jacob Roach,OGDEN  UT,268,31,M,37,30-34,02:22.9,03:27.9,01:05.0,11:32/M
+356,Kim Smith,Sandy  UT Us,299,38,F,26,35-39,02:27.8,03:07.5,00:39.7,11:32/M
+357,Chris Hamatake,Clearfield  UT Us,118,30,M,38,30-34,02:35.6,03:33.9,00:58.2,11:33/M
+358,Jo Bauswein,Chagrin Falls  OH U,22,26,F,15,25-29,02:59.7,03:50.6,00:50.9,11:34/M
+359,Hailey Dennis,Mission Viejo  CA U,405,16,F,2,15-18,03:33.6,04:01.4,00:27.8,11:35/M
+360,Linda Rowe-Oneal,Des Moines  WA Us,274,58,F,9,55-59,04:09.1,04:33.9,00:24.8,11:36/M
+361,Susan Dennis,Mission Viejo  CA U,404,53,F,12,50-54,04:22.3,04:50.1,00:27.7,11:37/M
+362,Nicco Gardiner,Sandy  UT USA,451,58,M,21,55-59,05:28.3,05:30.1,00:01.8,11:39/M
+363,Tim Heumann,Midvale  UT Us,129,45,M,36,45-49,06:37.9,07:23.4,00:45.4,11:42/M
+364,James Hubbard,Midvale  UT Us,143,62,M,7,60-64,06:40.0,07:23.7,00:43.7,11:42/M
+365,Harold Wilstead,Ogdensberg  NY Us,416,44,M,35,40-44,07:09.2,07:54.7,00:45.5,11:43/M
+366,Mike Chewar,Ponte Vedra Beach,57,63,M,8,60-64,07:52.3,08:35.8,00:43.5,11:45/M
+367,Morgan Doane,,465,17,M,8,15-18,08:05.6,08:17.0,00:11.4,11:45/M
+368,Jessie Conradi,Washington  DC Us,67,27,F,16,25-29,08:18.4,09:05.8,00:47.4,11:46/M
+369,Kalita Ford,Holladay  UT USA,93,57,F,10,55-59,09:57.1,09:57.1,00:00.0,11:50/M
+370,David Lamb,Salt Lake City  UT,174,37,M,37,35-39,10:03.8,10:32.2,00:28.3,11:50/M
+371,Stephanie Tanner,Salt Lake City  UT,396,32,F,31,30-34,12:06.7,12:43.0,00:36.2,11:54/M
+372,James Grua,Salt Lake City  UT,478,58,M,22,55-59,12:19.7,12:45.4,00:25.6,11:55/M
+373,Ray Nyce,Parker  CO Us,420,62,M,9,60-64,12:45.8,12:45.8,,11:56/M
+374,Martin Yablonovsky,Kaysville  UT Us,362,41,M,36,40-44,13:50.0,14:46.6,00:56.6,11:58/M
+375,Beth Davenport,Santa Fe  NM Us,73,52,F,13,50-54,13:52.2,14:31.4,00:39.1,11:59/M
+376,Amber Herzog,Salt Lake City  UT,480,28,F,17,25-29,16:44.1,17:32.2,00:48.1,12:05/M
+377,Gary Holloway,Boise  ID Us,414,51,M,21,50-54,17:02.6,17:44.4,00:41.7,12:06/M
+378,Sarah Nelson,Gilbert  AZ Us,230,29,F,18,25-29,17:18.6,17:32.3,00:13.6,12:06/M
+379,Tiffany Stuart,Post Falls  ID Us,309,29,F,19,25-29,17:46.5,18:31.4,00:44.8,12:07/M
+380,Melissa Gauruder,Tremonton  UT Us,104,31,F,32,30-34,17:47.0,18:31.7,00:44.6,12:07/M
+381,Thor Femenias,Cottonwood Heights,481,49,M,37,45-49,21:15.5,22:06.1,00:50.5,12:15/M
+382,Mark Parrotte,Arlington  VA Us,243,55,M,23,55-59,21:25.3,22:20.0,00:54.7,12:16/M
+383,Darryl Beardall,Santa Rosa  UT Us,41,75,M,1,70-79,22:04.6,22:29.6,00:25.0,12:17/M
+384,Steffen Schneider,Las Vegas  NV Us,393,56,M,24,55-59,22:11.4,22:50.9,00:39.5,12:18/M
+385,Quinn Bennion,Prairie Village  KS,26,41,M,37,40-44,23:24.0,24:12.6,00:48.6,12:20/M
+386,Craig Davidson,Phoenix  AZ Us,413,59,M,25,55-59,25:28.9,25:56.7,00:27.8,12:25/M
+387,Bruce Nelson,Brigham City  UT Us,384,59,M,26,55-59,26:48.7,27:31.9,00:43.1,12:28/M
+388,Joan Nelson,Brigham City  UT Us,385,57,F,11,55-59,26:48.8,27:31.5,00:42.6,12:28/M
+389,Kyla Nelson,Brigham City  UT Us,386,22,F,8,19-24,26:49.5,27:32.1,00:42.6,12:28/M
+390,Michelle Day,Highlands Ranch  CO,373,46,F,10,45-49,27:04.8,27:59.0,00:54.2,12:29/M
+391,Troy Baugh,Bear River  UT Us,20,19,F,9,19-24,28:05.6,28:20.4,00:14.7,12:31/M
+392,Ray Andrus,Draper  UT Us,10,70,M,2,70-79,30:53.9,31:35.1,00:41.2,12:37/M
+393,Christopher Conlin,,471,22,M,17,19-24,31:38.6,32:10.5,00:31.9,12:39/M
+394,Diana Hannigan,Provo  UT Us,120,43,F,18,40-44,32:06.8,32:40.9,00:34.1,12:40/M
+395,Mike Brooks,Magna  UT Us,40,60,M,10,60-64,34:08.8,34:55.3,00:46.5,12:45/M
+396,Janna Jamison,Orem  UT Us,151,46,F,11,45-49,34:45.1,35:14.5,00:29.4,12:46/M
+397,Asia Williams,Lubbock  TX Us,352,23,F,10,19-24,35:17.6,35:53.4,00:35.7,12:48/M
+398,Ray Lacanienta,Layton  UT Us,173,56,M,27,55-59,35:31.4,36:20.5,00:49.0,12:48/M
+399,Linsey Stark,Clinton  UT Us,305,22,F,11,19-24,36:13.1,36:57.1,00:44.0,12:50/M
+400,Misty Kay,Tooele  UT Us,162,30,F,33,30-34,37:05.1,37:39.4,00:34.2,12:52/M
+401,Marcy Bozung,Orem  UT Us,38,51,F,14,50-54,37:20.0,37:20.0,,12:52/M
+402,Rachel Vanroosendaal,Orem  UT Us,334,26,F,20,25-29,37:20.0,37:20.0,,12:52/M
+403,John Bozung,Orem  UT Us,344,60,M,11,60-64,37:20.1,37:20.1,,12:52/M
+404,Kennedy Luvai,Boise  ID Us,196,35,M,38,35-39,40:09.3,40:45.7,00:36.4,12:59/M
+405,Kirsten Clawson,Shelton  WA Us,62,40,F,19,40-44,41:12.6,41:56.0,00:43.4,13:01/M
+406,Cynthia Stone,Corona  CA Us,307,39,F,27,35-39,43:49.7,44:44.8,00:55.0,13:07/M
+407,G Marsden Blanch,Salt Lake City  UT,35,66,M,6,65-69,47:08.9,47:58.0,00:49.0,13:15/M
+408,Tom Wilson,Salt Lake City  UT,358,36,M,39,35-39,47:09.9,47:58.2,00:48.2,13:15/M
+409,Frank Bartocci,Spring Hill  FL Us,16,65,M,7,65-69,48:40.1,49:19.7,00:39.5,13:18/M
+410,Larry Benally,Cortez  CO Us,25,51,M,22,50-54,50:43.8,51:29.9,00:46.1,13:23/M
+411,Arcelia Garcia,Salt Lake City  UT,101,34,F,34,30-34,50:47.8,51:13.4,00:25.5,13:23/M
+412,Bubba Watson,Salt Lake City  UT,411,33,M,39,30-34,50:57.3,50:57.3,,13:23/M
+413,Diana Martinez,Holladay  UT Us,206,60,F,1,60-64,52:46.7,53:34.4,00:47.6,13:28/M
+414,Chris Reilly,Salt Lake City  UT,263,42,M,38,40-44,52:57.8,53:32.9,00:35.0,13:28/M
+415,Tim Gill,Evanston  WY Us,108,47,M,38,45-49,53:57.6,54:31.1,00:33.5,13:30/M
+416,Angel Islas,Clinton  UT Us,378,31,M,40,30-34,56:37.5,57:08.6,00:31.1,13:36/M
+417,Sheri Uffens,West Jordan  UT Us,333,43,F,20,40-44,56:46.1,57:28.1,00:42.0,13:37/M
+418,Laura Watson,San Tan Valley  AZ,345,36,F,28,35-39,01:15.0,01:56.1,00:41.0,13:47/M
+419,David Erickson,Pleasant View  UT U,88,61,M,12,60-64,04:35.7,05:44.6,01:08.8,13:55/M
+420,Joe Roberts,Spokane  WA USA,468,71,M,3,70-79,04:42.5,05:15.7,00:33.1,13:55/M
+421,Richard Carling,Salt Lake City  UT,47,75,M,4,70-79,07:08.8,07:11.7,00:02.8,14:00/M
+422,Stephen Harris,Unionville  ON Ca,123,64,M,13,60-64,10:57.1,11:29.0,00:31.9,14:09/M
+423,Rick Mandahl,Salt Lake City  UT,201,63,M,14,60-64,12:28.3,12:58.6,00:30.2,14:13/M
+424,Ramon Rios,Los Angeles  CA Us,421,42,M,39,40-44,13:04.9,13:59.2,00:54.3,14:14/M
+425,Heidi Hansen,Salt Lake City  UT,434,52,F,15,50-54,13:11.8,13:59.4,00:47.6,14:14/M
+426,Pamela Mitchell,Broken Arrow  OK Us,222,53,F,16,50-54,15:15.8,16:10.0,00:54.1,14:19/M
+427,Susie Lund,Salt Lake City  UT,193,40,F,21,40-44,21:56.8,22:54.2,00:57.4,14:34/M
+428,Sheri Billings,Midvale  UT Us,30,40,F,22,40-44,21:57.4,22:54.6,00:57.2,14:34/M
