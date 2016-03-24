@@ -6,7 +6,7 @@ use Sandbox\Table\Table;
 
 $table = new Table();
 
-$table->importCsv('./results.csv');
+$table->importCsv('./2014-5k.csv');
 ?>
 <html>
     <head>
@@ -34,9 +34,9 @@ $table->importCsv('./results.csv');
                     <option>50-54</option>
                 </select>
             </div>
-        <?php
+        <textarea><?php
         echo $table->export();
-        ?>
+        ?></textarea>
         </div>
     </body>
 </html>

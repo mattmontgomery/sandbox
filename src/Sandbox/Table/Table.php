@@ -43,7 +43,7 @@ class Table
         if(!$this->data) {
             throw new \Exception ('Data not provided');
         }
-        $html[] = '<table>';
+        $html[] = '<table class="pure-table pure-table-striped">';
         $html[] = '<thead>';
         $html[] = $this->composeRow($this->headers, true);
         $html[] = '</thead>';
@@ -51,7 +51,7 @@ class Table
         $html = array_merge($html,array_map(array($this,'composeRow'),$this->data));
         $html[] = '</tbody>';
         $html[] = '</table>';
-        return implode('',$html);
+        return implode("\n",$html);
     }
     public function composeRow($row, $isHeader = false)
     {
@@ -59,8 +59,9 @@ class Table
         $html = '<tr>';
 
         foreach($row as $key=>$col) {
-            $key = $isHeader ? '' : $key;
-            $html .= "<{$cellType} class=\"{$key}\">{$col}</{$cellType}>";
+            $sort = ($isHeader ? 'data-sort="'.$this->headers[$key].'"' : '');
+                $key = $isHeader ? 'sort' : $key;
+            $html .= "<{$cellType} class=\"{$key}\" {$sort}>{$col}</{$cellType}>";
         }
         return $html . '</tr>';
     }
